@@ -32,7 +32,7 @@ class Search extends Component {
       <div className="cardList">
         
         <form className="form-wrapper cf" onSubmit={this.handleSearch}>
-        <h1>Challenge<br></br> two</h1>
+        <h1>C<br></br> two</h1>
         <br></br>
         <br></br>
           <h2>This is a place to Search Album using album <br></br>ID</h2>
